@@ -1,7 +1,8 @@
 repo_name: britkern/design-tokens
 report_id: 26075eee5b4f1cade80f83962990ffbd
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:22:41+00:00'
+timestamp: '2024-01-05T08:30:23+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/britkern/design-tokens
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/britkern/design-tokens
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/britkern/design-tokens
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -46,7 +50,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-14 12:14:41.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2020-09-17 11:08:02.000000000 Z
@@ -82,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/britkern/design-tokens
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -91,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/.github/workflows/test.yml
   detection_source: ".github/workflows/test.yml"
   last_updated_by: Lukas Oppermann
   last_updated_on: 2020-11-19 14:23:41.000000000 Z
@@ -104,7 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2020-09-17 11:08:02.000000000 Z
@@ -118,7 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -130,6 +138,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2020-09-17 11:08:02.000000000 Z
@@ -139,6 +148,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/dist/ui.html
   detection_source: dist/ui.html
   last_updated_by: Lukas Oppermann
   last_updated_on: 2022-03-09 19:31:05.000000000 Z
@@ -152,7 +162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -166,7 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -180,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -194,7 +204,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -208,7 +218,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-14 12:14:41.000000000 Z
@@ -222,7 +232,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16612/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-15 09:53:26.000000000 Z
@@ -236,7 +246,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-15 09:53:26.000000000 Z
@@ -250,7 +260,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17077/default_43f23668e39c9b3381720c9c76540776b8a49167.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -265,7 +275,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -279,7 +289,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -293,7 +303,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -307,7 +317,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -321,7 +331,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16413/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-01-06 08:28:36.000000000 Z
@@ -335,7 +345,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-15 09:53:26.000000000 Z
@@ -350,7 +360,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -364,7 +374,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-14 12:14:41.000000000 Z
@@ -378,7 +388,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
@@ -392,7 +402,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-09-14 12:14:41.000000000 Z
@@ -406,7 +416,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/britkern/design-tokens/blob/main/package-lock.json
+  detection_source_url: https://github.com/britkern/design-tokens/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Lukas Oppermann
   last_updated_on: 2021-12-17 08:34:26.000000000 Z
